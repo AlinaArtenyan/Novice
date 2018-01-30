@@ -1,0 +1,474 @@
+    <svg xmlns="http://www.w3.org/2000/svg" fill="grey" viewBox="-80 -10 4210 2000" >
+    <style>
+        .a {
+            animation: aa 5s infinite linear;
+        }
+        .b {
+            animation: bb 5s -5s infinite linear ;
+        }
+        /*
+        polygon:hover {
+            stroke-width: 4;
+            stroke: rgba(84, 193, 228, 1);
+        }*/
+        @keyframes aa {
+            50% {
+                stroke: rgba(84, 193, 228, 1);
+            }
+            100 {
+                stroke: rgba(84, 193, 228, 0);
+            }
+        }
+        @keyframes bb {
+            50% {
+                stroke: #50FF3B;
+            }
+            100 {
+                stroke: rgba(84, 193, 228, 0);
+            }
+        }
+    </style>
+    <g>
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="0,30 70,0 140,30 140,105 70,135 0,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="145,30 215,0 285,30 285,105 215,135 145,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="290,30 360,0 430,30 430,105 360,135 290,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="435,30 505,0 575,30 575,105 505,135 435,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="580,30 650,0 720,30 720,105 650,135 580,105" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="725,30 795,0 865,30 865,105 795,135 725,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="870,30 940,0 1010,30 1010,105 940,135 870,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1015,30 1085,0 1155,30 1155,105 1085,135 1015,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1160,30 1230,0 1300,30 1300,105 1230,135 1160,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1305,30 1375,0 1445,30 1445,105 1375,135 1305,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1450,30 1520,0 1590,30 1590,105 1520,135 1450,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1595,30 1665,0 1735,30 1735,105 1665,135 1595,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1740,30 1810,0 1880,30 1880,105 1810,135 1740,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1885,30 1955,0 2025,30 2025,105 1955,135 1885,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2030,30 2100,0 2170,30 2170,105 2100,135 2030,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2175,30 2245,0 2315,30 2315,105 2245,135 2175,105" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2320,30 2390,0 2460,30 2460,105 2390,135 2320,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2465,30 2535,0 2605,30 2605,105 2535,135 2465,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2610,30 2680,0 2750,30 2750,105 2680,135 2610,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2755,30 2825,0 2895,30 2895,105 2825,135 2755,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2900,30 2970,0 3040,30 3040,105 2970,135 2900,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3045,30 3115,0 3185,30 3185,105 3115,135 3045,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3190,30 3260,0 3330,30 3330,105 3260,135 3190,105" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3335,30 3405,0 3475,30 3475,105 3405,135 3335,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3480,30 3550,0 3620,30 3620,105 3550,135 3480,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3625,30 3695,0 3765,30 3765,105 3695,135 3625,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3770,30 3840,0 3910,30 3910,105 3840,135 3770,105" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3915,30 3985,0 4055,30 4055,105 3985,135 3915,105" />
+
+
+
+
+
+
+
+
+
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="0,170 70,140 140,170 140,245 70,275 0,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="145,170 215,140 285,170 285,245 215,275 145,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="290,170 360,140 430,170 430,245 360,275 290,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="435,170 505,140 575,170 575,245 505,275 435,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="580,170 650,140 720,170 720,245 650,275 580,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="725,170 795,140 865,170 865,245 795,275 725,245" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="870,170 940,140 1010,170 1010,245 940,275 870,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1015,170 1085,140 1155,170 1155,245 1085,275 1015,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1160,170 1230,140 1300,170 1300,245 1230,275 1160,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1305,170 1375,140 1445,170 1445,245 1375,275 1305,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1450,170 1520,140 1590,170 1590,245 1520,275 1450,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1595,170 1665,140 1735,170 1735,245 1665,275 1595,245" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1740,170 1810,140 1880,170 1880,245 1810,275 1740,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1885,170 1955,140 2025,170 2025,245 1955,275 1885,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2030,170 2100,140 2170,170 2170,245 2100,275 2030,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2175,170 2245,140 2315,170 2315,245 2245,275 2175,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2320,170 2390,140 2460,170 2460,245 2390,275 2320,245" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2465,170 2535,140 2605,170 2605,245 2535,275 2465,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2610,170 2680,140 2750,170 2750,245 2680,275 2610,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2755,170 2825,140 2895,170 2895,245 2825,275 2755,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2900,170 2970,140 3040,170 3040,245 2970,275 2900,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3045,170 3115,140 3185,170 3185,245 3115,275 3045,245" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3190,170 3260,140 3330,170 3330,245 3260,275 3190,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3335,170 3405,140 3475,170 3475,245 3405,275 3335,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3480,170 3550,140 3620,170 3620,245 3550,275 3480,245" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3625,170 3695,140 3765,170 3765,245 3695,275 3625,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3770,170 3840,140 3910,170 3910,245 3840,275 3770,245" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3915,170 3985,140 4055,170 4055,245 3985,275 3915,245" />
+
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="0,310 70,280 140,310 140,385 70,415 0,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="145,310 215,280 285,310 285,385 215,415 145,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="290,310 360,280 430,310 430,385 360,415 290,385" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="435,310 505,280 575,310 575,385 505,415 435,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="580,310 650,280 720,310 720,385 650,415 580,385" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="725,310 795,280 865,310 865,385 795,415 725,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="870,310 940,280 1010,310 1010,385 940,415 870,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1015,310 1085,280 1155,310 1155,385 1085,415 1015,385" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1160,310 1230,280 1300,310 1300,385 1230,415 1160,385" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1305,310 1375,280 1445,310 1445,385 1375,415 1305,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1450,310 1520,280 1590,310 1590,385 1520,415 1450,385" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1595,310 1665,280 1735,310 1735,385 1665,415 1595,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1740,310 1810,280 1880,310 1880,385 1810,415 1740,385" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1885,310 1955,280 2025,310 2025,385 1955,415 1885,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2030,310 2100,280 2170,310 2170,385 2100,415 2030,385" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2175,310 2245,280 2315,310 2315,385 2245,415 2175,385" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2320,310 2390,280 2460,310 2460,385 2390,415 2320,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2465,310 2535,280 2605,310 2605,385 2535,415 2465,385" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2610,310 2680,280 2750,310 2750,385 2680,415 2610,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2755,310 2825,280 2895,310 2895,385 2825,415 2755,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2900,310 2970,280 3040,310 3040,385 2970,415 2900,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3045,310 3115,280 3185,310 3185,385 3115,415 3045,385" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3190,310 3260,280 3330,310 3330,385 3260,415 3190,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3335,310 3405,280 3475,310 3475,385 3405,415 3335,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3480,310 3550,280 3620,310 3620,385 3550,415 3480,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3625,310 3695,280 3765,310 3765,385 3695,415 3625,385" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3770,310 3840,280 3910,310 3910,385 3840,415 3770,385" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3915,310 3985,280 4055,310 4055,385 3985,415 3915,385" />
+
+
+
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="0,450 70,420 140,450 140,525 70,555 0,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="145,450 215,420 285,450 285,525 215,555 145,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="290,450 360,420 430,450 430,525 360,555 290,525" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="435,450 505,420 575,450 575,525 505,555 435,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="580,450 650,420 720,450 720,525 650,555 580,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="725,450 795,420 865,450 865,525 795,555 725,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="870,450 940,420 1010,450 1010,525 940,555 870,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1015,450 1085,420 1155,450 1155,525 1085,555 1015,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1160,450 1230,420 1300,450 1300,525 1230,555 1160,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1305,450 1375,420 1445,450 1445,525 1375,555 1305,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1450,450 1520,420 1590,450 1590,525 1520,555 1450,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1595,450 1665,420 1735,450 1735,525 1665,555 1595,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1740,450 1810,420 1880,450 1880,525 1810,555 1740,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1885,450 1955,420 2025,450 2025,525 1955,555 1885,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2030,450 2100,420 2170,450 2170,525 2100,555 2030,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2175,450 2245,420 2315,450 2315,525 2245,555 2175,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2320,450 2390,420 2460,450 2460,525 2390,555 2320,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2465,450 2535,420 2605,450 2605,525 2535,555 2465,525" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2610,450 2680,420 2750,450 2750,525 2680,555 2610,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2755,450 2825,420 2895,450 2895,525 2825,555 2755,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2900,450 2970,420 3040,450 3040,525 2970,555 2900,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3045,450 3115,420 3185,450 3185,525 3115,555 3045,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3190,450 3260,420 3330,450 3330,525 3260,555 3190,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3335,450 3405,420 3475,450 3475,525 3405,555 3335,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3480,450 3550,420 3620,450 3620,525 3550,555 3480,525" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3625,450 3695,420 3765,450 3765,525 3695,555 3625,525" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3770,450 3840,420 3910,450 3910,525 3840,555 3770,525" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3915,450 3985,420 4055,450 4055,525 3985,555 3915,525" />
+
+
+
+
+
+
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="0,590 70,560 140,590 140,665 70,695 0,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="145,590 215,560 285,590 285,665 215,695 145,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="290,590 360,560 430,590 430,665 360,695 290,665" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="435,590 505,560 575,590 575,665 505,695 435,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="580,590 650,560 720,590 720,665 650,695 580,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="725,590 795,560 865,590 865,665 795,695 725,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="870,590 940,560 1010,590 1010,665 940,695 870,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1015,590 1085,560 1155,590 1155,665 1085,695 1015,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1160,590 1230,560 1300,590 1300,665 1230,695 1160,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1305,590 1375,560 1445,590 1445,665 1375,695 1305,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1450,590 1520,560 1590,590 1590,665 1520,695 1450,665" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1595,590 1665,560 1735,590 1735,665 1665,695 1595,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1740,590 1810,560 1880,590 1880,665 1810,695 1740,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1885,590 1955,560 2025,590 2025,665 1955,695 1885,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2030,590 2100,560 2170,590 2170,665 2100,695 2030,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2175,590 2245,560 2315,590 2315,665 2245,695 2175,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2320,590 2390,560 2460,590 2460,665 2390,695 2320,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2465,590 2535,560 2605,590 2605,665 2535,695 2465,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2610,590 2680,560 2750,590 2750,665 2680,695 2610,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2755,590 2825,560 2895,590 2895,665 2825,695 2755,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2900,590 2970,560 3040,590 3040,665 2970,695 2900,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3045,590 3115,560 3185,590 3185,665 3115,695 3045,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3190,590 3260,560 3330,590 3330,665 3260,695 3190,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3335,590 3405,560 3475,590 3475,665 3405,695 3335,665" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3480,590 3550,560 3620,590 3620,665 3550,695 3480,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3625,590 3695,560 3765,590 3765,665 3695,695 3625,665" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3770,590 3840,560 3910,590 3910,665 3840,695 3770,665" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3915,590 3985,560 4055,590 4055,665 3985,695 3915,665" />
+
+
+
+
+
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="0,730 70,700 140,730 140,805 70,835 0,805" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="145,730 215,700 285,730 285,805 215,835 145,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="290,730 360,700 430,730 430,805 360,835 290,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="435,730 505,700 575,730 575,805 505,835 435,805" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="580,730 650,700 720,730 720,805 650,835 580,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="725,730 795,700 865,730 865,805 795,835 725,805" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="870,730 940,700 1010,730 1010,805 940,835 870,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1015,730 1085,700 1155,730 1155,805 1085,835 1015,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1160,730 1230,700 1300,730 1300,805 1230,835 1160,805" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1305,730 1375,700 1445,730 1445,805 1375,835 1305,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1450,730 1520,700 1590,730 1590,805 1520,835 1450,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1595,730 1665,700 1735,730 1735,805 1665,835 1595,805" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1740,730 1810,700 1880,730 1880,805 1810,835 1740,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1885,730 1955,700 2025,730 2025,805 1955,835 1885,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2030,730 2100,700 2170,730 2170,805 2100,835 2030,805" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2175,730 2245,700 2315,730 2315,805 2245,835 2175,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2320,730 2390,700 2460,730 2460,805 2390,835 2320,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2465,730 2535,700 2605,730 2605,805 2535,835 2465,805" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2610,730 2680,700 2750,730 2750,805 2680,835 2610,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2755,730 2825,700 2895,730 2895,805 2825,835 2755,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2900,730 2970,700 3040,730 3040,805 2970,835 2900,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3045,730 3115,700 3185,730 3185,805 3115,835 3045,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3190,730 3260,700 3330,730 3330,805 3260,835 3190,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3335,730 3405,700 3475,730 3475,805 3405,835 3335,805" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3480,730 3550,700 3620,730 3620,805 3550,835 3480,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3625,730 3695,700 3765,730 3765,805 3695,835 3625,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3770,730 3840,700 3910,730 3910,805 3840,835 3770,805" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3915,730 3985,700 4055,730 4055,805 3985,835 3915,805" />
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="0,870 70,840 140,870 140,945 70,975 0,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="145,870 215,840 285,870 285,945 215,975 145,945" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="290,870 360,840 430,870 430,945 360,975 290,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="435,870 505,840 575,870 575,945 505,975 435,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="580,870 650,840 720,870 720,945 650,975 580,945" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="725,870 795,840 865,870 865,945 795,975 725,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="870,870 940,840 1010,870 1010,945 940,975 870,945" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1015,870 1085,840 1155,870 1155,945 1085,975 1015,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1160,870 1230,840 1300,870 1300,945 1230,975 1160,945" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1305,870 1375,840 1445,870 1445,945 1375,975 1305,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1450,870 1520,840 1590,870 1590,945 1520,975 1450,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1595,870 1665,840 1735,870 1735,945 1665,975 1595,945" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1740,870 1810,840 1880,870 1880,945 1810,975 1740,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1885,870 1955,840 2025,870 2025,945 1955,975 1885,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2030,870 2100,840 2170,870 2170,945 2100,975 2030,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2175,870 2245,840 2315,870 2315,945 2245,975 2175,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2320,870 2390,840 2460,870 2460,945 2390,975 2320,945" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2465,870 2535,840 2605,870 2605,945 2535,975 2465,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2610,870 2680,840 2750,870 2750,945 2680,975 2610,945" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2755,870 2825,840 2895,870 2895,945 2825,975 2755,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2900,870 2970,840 3040,870 3040,945 2970,975 2900,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3045,870 3115,840 3185,870 3185,945 3115,975 3045,945" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3190,870 3260,840 3330,870 3330,945 3260,975 3190,945" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3335,870 3405,840 3475,870 3475,945 3405,975 3335,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3480,870 3550,840 3620,870 3620,945 3550,975 3480,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3625,870 3695,840 3765,870 3765,945 3695,975 3625,945" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3770,870 3840,840 3910,870 3910,945 3840,975 3770,945" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3915,870 3985,840 4055,870 4055,945 3985,975 3915,945" />
+
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="0,1010 70,980 140,1010 140,1085 70,1115 0,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="145,1010 215,980 285,1010 285,1085 215,1115 145,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="290,1010 360,980 430,1010 430,1085 360,1115 290,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="435,1010 505,980 575,1010 575,1085 505,1115 435,1085" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="580,1010 650,980 720,1010 720,1085 650,1115 580,1085" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="725,1010 795,980 865,1010 865,1085 795,1115 725,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="870,1010 940,980 1010,1010 1010,1085 940,1115 870,1085" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1015,1010 1085,980 1155,1010 1155,1085 1085,1115 1015,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1160,1010 1230,980 1300,1010 1300,1085 1230,1115 1160,1085" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1305,1010 1375,980 1445,1010 1445,1085 1375,1115 1305,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1450,1010 1520,980 1590,1010 1590,1085 1520,1115 1450,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1595,1010 1665,980 1735,1010 1735,1085 1665,1115 1595,1085" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1740,1010 1810,980 1880,1010 1880,1085 1810,1115 1740,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="1885,1010 1955,980 2025,1010 2025,1085 1955,1115 1885,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2030,1010 2100,980 2170,1010 2170,1085 2100,1115 2030,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2175,1010 2245,980 2315,1010 2315,1085 2245,1115 2175,1085" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2320,1010 2390,980 2460,1010 2460,1085 2390,1115 2320,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2465,1010 2535,980 2605,1010 2605,1085 2535,1115 2465,1085" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2610,1010 2680,980 2750,1010 2750,1085 2680,1115 2610,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2755,1010 2825,980 2895,1010 2895,1085 2825,1115 2755,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="2900,1010 2970,980 3040,1010 3040,1085 2970,1115 2900,1085" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3045,1010 3115,980 3185,1010 3185,1085 3115,1115 3045,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3190,1010 3260,980 3330,1010 3330,1085 3260,1115 3190,1085" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3335,1010 3405,980 3475,1010 3475,1085 3405,1115 3335,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3480,1010 3550,980 3620,1010 3620,1085 3550,1115 3480,1085" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3625,1010 3695,980 3765,1010 3765,1085 3695,1115 3625,1085" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3770,1010 3840,980 3910,1010 3910,1085 3840,1115 3770,1085" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .1)" stroke-width="1" points="3915,1010 3985,980 4055,1010 4055,1085 3985,1115 3915,1085" />
+
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="0,1150 70,1120 140,1150 140,1225 70,1255 0,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="145,1150 215,1120 285,1150 285,1225 215,1255 145,1225" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="290,1150 360,1120 430,1150 430,1225 360,1255 290,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="435,1150 505,1120 575,1150 575,1225 505,1255 435,1225" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="580,1150 650,1120 720,1150 720,1225 650,1255 580,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="725,1150 795,1120 865,1150 865,1225 795,1255 725,1225" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="870,1150 940,1120 1010,1150 1010,1225 940,1255 870,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1015,1150 1085,1120 1155,1150 1155,1225 1085,1255 1015,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1160,1150 1230,1120 1300,1150 1300,1225 1230,1255 1160,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1305,1150 1375,1120 1445,1150 1445,1225 1375,1255 1305,1225" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1450,1150 1520,1120 1590,1150 1590,1225 1520,1255 1450,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1595,1150 1665,1120 1735,1150 1735,1225 1665,1255 1595,1225" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1740,1150 1810,1120 1880,1150 1880,1225 1810,1255 1740,1225" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="1885,1150 1955,1120 2025,1150 2025,1225 1955,1255 1885,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2030,1150 2100,1120 2170,1150 2170,1225 2100,1255 2030,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2175,1150 2245,1120 2315,1150 2315,1225 2245,1255 2175,1225" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2320,1150 2390,1120 2460,1150 2460,1225 2390,1255 2320,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2465,1150 2535,1120 2605,1150 2605,1225 2535,1255 2465,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2610,1150 2680,1120 2750,1150 2750,1225 2680,1255 2610,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2755,1150 2825,1120 2895,1150 2895,1225 2825,1255 2755,1225" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="2900,1150 2970,1120 3040,1150 3040,1225 2970,1255 2900,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3045,1150 3115,1120 3185,1150 3185,1225 3115,1255 3045,1225" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3190,1150 3260,1120 3330,1150 3330,1225 3260,1255 3190,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3335,1150 3405,1120 3475,1150 3475,1225 3405,1255 3335,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3480,1150 3550,1120 3620,1150 3620,1225 3550,1255 3480,1225" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3625,1150 3695,1120 3765,1150 3765,1225 3695,1255 3625,1225" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3770,1150 3840,1120 3910,1150 3910,1225 3840,1255 3770,1225" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .17)" stroke-width="1" points="3915,1150 3985,1120 4055,1150 4055,1225 3985,1255 3915,1225" />
+
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="0,1290 70,1260 140,1290 140,1365 70,1395 0,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="145,1290 215,1260 285,1290 285,1365 215,1395 145,1365" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="290,1290 360,1260 430,1290 430,1365 360,1395 290,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="435,1290 505,1260 575,1290 575,1365 505,1395 435,1365" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="580,1290 650,1260 720,1290 720,1365 650,1395 580,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="725,1290 795,1260 865,1290 865,1365 795,1395 725,1365" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="870,1290 940,1260 1010,1290 1010,1365 940,1395 870,1365" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1015,1290 1085,1260 1155,1290 1155,1365 1085,1395 1015,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1160,1290 1230,1260 1300,1290 1300,1365 1230,1395 1160,1365" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1305,1290 1375,1260 1445,1290 1445,1365 1375,1395 1305,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1450,1290 1520,1260 1590,1290 1590,1365 1520,1395 1450,1365" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1595,1290 1665,1260 1735,1290 1735,1365 1665,1395 1595,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1740,1290 1810,1260 1880,1290 1880,1365 1810,1395 1740,1365" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="1885,1290 1955,1260 2025,1290 2025,1365 1955,1395 1885,1365" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2030,1290 2100,1260 2170,1290 2170,1365 2100,1395 2030,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2175,1290 2245,1260 2315,1290 2315,1365 2245,1395 2175,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2320,1290 2390,1260 2460,1290 2460,1365 2390,1395 2320,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2465,1290 2535,1260 2605,1290 2605,1365 2535,1395 2465,1365" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2610,1290 2680,1260 2750,1290 2750,1365 2680,1395 2610,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2755,1290 2825,1260 2895,1290 2895,1365 2825,1395 2755,1365" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="2900,1290 2970,1260 3040,1290 3040,1365 2970,1395 2900,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3045,1290 3115,1260 3185,1290 3185,1365 3115,1395 3045,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3190,1290 3260,1260 3330,1290 3330,1365 3260,1395 3190,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3335,1290 3405,1260 3475,1290 3475,1365 3405,1395 3335,1365" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3480,1290 3550,1260 3620,1290 3620,1365 3550,1395 3480,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3625,1290 3695,1260 3765,1290 3765,1365 3695,1395 3625,1365" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3770,1290 3840,1260 3910,1290 3910,1365 3840,1395 3770,1365" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .25)" stroke-width="1" points="3915,1290 3985,1260 4055,1290 4055,1365 3985,1395 3915,1365" />
+
+
+
+
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="0,1430 70,1400 140,1430 140,1505 70,1535 0,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="145,1430 215,1400 285,1430 285,1505 215,1535 145,1505" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="290,1430 360,1400 430,1430 430,1505 360,1535 290,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="435,1430 505,1400 575,1430 575,1505 505,1535 435,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="580,1430 650,1400 720,1430 720,1505 650,1535 580,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="725,1430 795,1400 865,1430 865,1505 795,1535 725,1505" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="870,1430 940,1400 1010,1430 1010,1505 940,1535 870,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1015,1430 1085,1400 1155,1430 1155,1505 1085,1535 1015,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1160,1430 1230,1400 1300,1430 1300,1505 1230,1535 1160,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1305,1430 1375,1400 1445,1430 1445,1505 1375,1535 1305,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1450,1430 1520,1400 1590,1430 1590,1505 1520,1535 1450,1505" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1595,1430 1665,1400 1735,1430 1735,1505 1665,1535 1595,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1740,1430 1810,1400 1880,1430 1880,1505 1810,1535 1740,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="1885,1430 1955,1400 2025,1430 2025,1505 1955,1535 1885,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2030,1430 2100,1400 2170,1430 2170,1505 2100,1535 2030,1505" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2175,1430 2245,1400 2315,1430 2315,1505 2245,1535 2175,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2320,1430 2390,1400 2460,1430 2460,1505 2390,1535 2320,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2465,1430 2535,1400 2605,1430 2605,1505 2535,1535 2465,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2610,1430 2680,1400 2750,1430 2750,1505 2680,1535 2610,1505" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2755,1430 2825,1400 2895,1430 2895,1505 2825,1535 2755,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="2900,1430 2970,1400 3040,1430 3040,1505 2970,1535 2900,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3045,1430 3115,1400 3185,1430 3185,1505 3115,1535 3045,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3190,1430 3260,1400 3330,1430 3330,1505 3260,1535 3190,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3335,1430 3405,1400 3475,1430 3475,1505 3405,1535 3335,1505" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3480,1430 3550,1400 3620,1430 3620,1505 3550,1535 3480,1505" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3625,1430 3695,1400 3765,1430 3765,1505 3695,1535 3625,1505" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3770,1430 3840,1400 3910,1430 3910,1505 3840,1535 3770,1505" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .33)" stroke-width="1" points="3915,1430 3985,1400 4055,1430 4055,1505 3985,1535 3915,1505" />
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="0,1570 70,1540 140,1570 140,1645 70,1675 0,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="145,1570 215,1540 285,1570 285,1645 215,1675 145,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="290,1570 360,1540 430,1570 430,1645 360,1675 290,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="435,1570 505,1540 575,1570 575,1645 505,1675 435,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="580,1570 650,1540 720,1570 720,1645 650,1675 580,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="725,1570 795,1540 865,1570 865,1645 795,1675 725,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="870,1570 940,1540 1010,1570 1010,1645 940,1675 870,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1015,1570 1085,1540 1155,1570 1155,1645 1085,1675 1015,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1160,1570 1230,1540 1300,1570 1300,1645 1230,1675 1160,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1305,1570 1375,1540 1445,1570 1445,1645 1375,1675 1305,1645" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1450,1570 1520,1540 1590,1570 1590,1645 1520,1675 1450,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1595,1570 1665,1540 1735,1570 1735,1645 1665,1675 1595,1645" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1740,1570 1810,1540 1880,1570 1880,1645 1810,1675 1740,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="1885,1570 1955,1540 2025,1570 2025,1645 1955,1675 1885,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2030,1570 2100,1540 2170,1570 2170,1645 2100,1675 2030,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2175,1570 2245,1540 2315,1570 2315,1645 2245,1675 2175,1645" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2320,1570 2390,1540 2460,1570 2460,1645 2390,1675 2320,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2465,1570 2535,1540 2605,1570 2605,1645 2535,1675 2465,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2610,1570 2680,1540 2750,1570 2750,1645 2680,1675 2610,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2755,1570 2825,1540 2895,1570 2895,1645 2825,1675 2755,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="2900,1570 2970,1540 3040,1570 3040,1645 2970,1675 2900,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3045,1570 3115,1540 3185,1570 3185,1645 3115,1675 3045,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3190,1570 3260,1540 3330,1570 3330,1645 3260,1675 3190,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3335,1570 3405,1540 3475,1570 3475,1645 3405,1675 3335,1645" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3480,1570 3550,1540 3620,1570 3620,1645 3550,1675 3480,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3625,1570 3695,1540 3765,1570 3765,1645 3695,1675 3625,1645" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3770,1570 3840,1540 3910,1570 3910,1645 3840,1675 3770,1645" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .4)" stroke-width="1" points="3915,1570 3985,1540 4055,1570 4055,1645 3985,1675 3915,1645" />
+
+
+
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="0,1710 70,1680 140,1710 140,1785 70,1815 0,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="145,1710 215,1680 285,1710 285,1785 215,1815 145,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="290,1710 360,1680 430,1710 430,1785 360,1815 290,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="435,1710 505,1680 575,1710 575,1785 505,1815 435,1785" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="580,1710 650,1680 720,1710 720,1785 650,1815 580,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="725,1710 795,1680 865,1710 865,1785 795,1815 725,1785" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="870,1710 940,1680 1010,1710 1010,1785 940,1815 870,1785" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1015,1710 1085,1680 1155,1710 1155,1785 1085,1815 1015,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1160,1710 1230,1680 1300,1710 1300,1785 1230,1815 1160,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1305,1710 1375,1680 1445,1710 1445,1785 1375,1815 1305,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1450,1710 1520,1680 1590,1710 1590,1785 1520,1815 1450,1785" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1595,1710 1665,1680 1735,1710 1735,1785 1665,1815 1595,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1740,1710 1810,1680 1880,1710 1880,1785 1810,1815 1740,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="1885,1710 1955,1680 2025,1710 2025,1785 1955,1815 1885,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2030,1710 2100,1680 2170,1710 2170,1785 2100,1815 2030,1785" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2175,1710 2245,1680 2315,1710 2315,1785 2245,1815 2175,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2320,1710 2390,1680 2460,1710 2460,1785 2390,1815 2320,1785" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2465,1710 2535,1680 2605,1710 2605,1785 2535,1815 2465,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2610,1710 2680,1680 2750,1710 2750,1785 2680,1815 2610,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2755,1710 2825,1680 2895,1710 2895,1785 2825,1815 2755,1785" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="2900,1710 2970,1680 3040,1710 3040,1785 2970,1815 2900,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3045,1710 3115,1680 3185,1710 3185,1785 3115,1815 3045,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3190,1710 3260,1680 3330,1710 3330,1785 3260,1815 3190,1785" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3335,1710 3405,1680 3475,1710 3475,1785 3405,1815 3335,1785" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3480,1710 3550,1680 3620,1710 3620,1785 3550,1815 3480,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3625,1710 3695,1680 3765,1710 3765,1785 3695,1815 3625,1785" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3770,1710 3840,1680 3910,1710 3910,1785 3840,1815 3770,1785" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .47)" stroke-width="1" points="3915,1710 3985,1680 4055,1710 4055,1785 3985,1815 3915,1785" />
+
+
+
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="0,1850 70,1820 140,1850 140,1925 70,1955 0,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="145,1850 215,1820 285,1850 285,1925 215,1955 145,1925" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="290,1850 360,1820 430,1850 430,1925 360,1955 290,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="435,1850 505,1820 575,1850 575,1925 505,1955 435,1925" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="580,1850 650,1820 720,1850 720,1925 650,1955 580,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="725,1850 795,1820 865,1850 865,1925 795,1955 725,1925" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="870,1850 940,1820 1010,1850 1010,1925 940,1955 870,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1015,1850 1085,1820 1155,1850 1155,1925 1085,1955 1015,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1160,1850 1230,1820 1300,1850 1300,1925 1230,1955 1160,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1305,1850 1375,1820 1445,1850 1445,1925 1375,1955 1305,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1450,1850 1520,1820 1590,1850 1590,1925 1520,1955 1450,1925" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1595,1850 1665,1820 1735,1850 1735,1925 1665,1955 1595,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1740,1850 1810,1820 1880,1850 1880,1925 1810,1955 1740,1925" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="1885,1850 1955,1820 2025,1850 2025,1925 1955,1955 1885,1925" />
+        <polygon class="b" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2030,1850 2100,1820 2170,1850 2170,1925 2100,1955 2030,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2175,1850 2245,1820 2315,1850 2315,1925 2245,1955 2175,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2320,1850 2390,1820 2460,1850 2460,1925 2390,1955 2320,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2465,1850 2535,1820 2605,1850 2605,1925 2535,1955 2465,1925" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2610,1850 2680,1820 2750,1850 2750,1925 2680,1955 2610,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2755,1850 2825,1820 2895,1850 2895,1925 2825,1955 2755,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="2900,1850 2970,1820 3040,1850 3040,1925 2970,1955 2900,1925" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3045,1850 3115,1820 3185,1850 3185,1925 3115,1955 3045,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3190,1850 3260,1820 3330,1850 3330,1925 3260,1955 3190,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3335,1850 3405,1820 3475,1850 3475,1925 3405,1955 3335,1925" />
+        <polygon class="a" fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3480,1850 3550,1820 3620,1850 3620,1925 3550,1955 3480,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3625,1850 3695,1820 3765,1850 3765,1925 3695,1955 3625,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3770,1850 3840,1820 3910,1850 3910,1925 3840,1955 3770,1925" />
+        <polygon fill="rgba(255, 255, 255, 0)" stroke="rgba(84, 193, 228, .54)" stroke-width="1" points="3915,1850 3985,1820 4055,1850 4055,1925 3985,1955 3915,1925" />
+    </g>
+    </svg>

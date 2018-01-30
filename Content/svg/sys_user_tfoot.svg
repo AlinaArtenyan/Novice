@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -10 550 350" >
+	<style> 
+		@font-face{
+		  font-family: NegativeSpace;
+		  src: url(../fonts/NegativeSpace.ttf);
+		}
+		svg {
+		  font-family: NegativeSpace;
+		  font-size: 19px;
+		  color: red;
+		}
+	</style>
+
+ <g>
+		<polygon fill="#101010" points="550,16 535,32 15,32 17,34 536,34 550,19" />
+		<polygon fill="rgba(98, 97, 107, 0.4)" points="0,16 15,0 535,0 550,16 535,32 15,32" />
+		<polygon fill="rgba(23, 26, 36, 0.6)" points="0,16 550,16 535,32 15,32" />
+
+		<polygon fill="rgb(21, 25, 43)" points="0,16 15,0 15,32" />
+		<polygon fill="rgb(21, 25, 43)" points="535,0 550,16 535,32" />
+  	<!-- 	<text x="200" y="20" style="fill: #222; font-weight: bold;">Cancel
+  		</text>
+  		<text x="320" y="20" style="fill: #222; font-weight: bold;">Save
+  		</text> -->
+	</g>
+</svg>
+
+
+
+
+<!-- 
+ <style>
+   <![CDATA[
+    @font-face {
+        font-family: NegativeSpace;
+        src: url(../fonts/NegativeSpace.ttf);
+    }
+   ]]>	
+</style> -->
